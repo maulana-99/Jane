@@ -86,3 +86,16 @@ p {
     margin-bottom: 1.5rem;
     color: #555;
 }
+
+.player-container {
+    margin: 1.5rem 0;
+    padding: 1.5rem;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    border-left: 4px solid #4CAF50;
+}
+
+.audio-player {
+    width: 100%;
+    outline: none;
+}
